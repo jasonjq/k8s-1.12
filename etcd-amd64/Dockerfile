@@ -1,1 +1,1 @@
-From gcr.io/google_containers/kube-etcd:v3.2.24
+From gcr.io/google_containers/etcd-amd64:3.2.24
